@@ -2,7 +2,7 @@
 
 ## **Karif Williams**
 [LinkedIn] (https://www.linkedin.com/in/karif-williams-a6974089/)
-Email: [Email] *kariftw@hotmail.com*
+[Email] *kariftw@hotmail.com*
 ### **Skills**
 |20 years of Leadership Experience|
 -----------------------------------
@@ -20,6 +20,6 @@ I would like to use the skills learned in this class to enhance my ability to of
 
 ### **Just Me**
 
-![pic of me] (https://github.com/Karif1/Week-1/blob/main/Williams%2C%20Karif%201.JPG)
+ (https://github.com/Karif1/Week-1/blob/main/Williams%2C%20Karif%201.JPG)
 
 
